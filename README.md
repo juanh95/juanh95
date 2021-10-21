@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Juan
+- 👀 I’m interested in full stack application development
+- 🌱 I’m currently learning more about ReactJS and GraphQL
+- 💞️ Happy collaborate on anything!
+- 📫 Reach me at hernandezjuanm39@gmail.com
